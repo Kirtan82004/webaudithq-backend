@@ -1,0 +1,30 @@
+# Node
+node_modules
+npm-debug.log
+yarn.lock
+pnpm-lock.yaml
+
+# Git
+.git
+.gitignore
+
+# Environment
+.env
+.env.*
+
+# Docker
+Dockerfile
+.dockerignore
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build / Cache
+.cache
+dist
+build
+
+# Puppeteer / Chrome cache
+.puppeteer
+.cache/puppeteer
